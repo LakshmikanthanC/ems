@@ -34,7 +34,7 @@ The Employment Management System is a web application designed to manage employe
 
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/LakshmikanthanC/ems.git
    ```
 2. Install necessary dependencies:
    ```bash
