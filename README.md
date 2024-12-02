@@ -1,23 +1,27 @@
 # React + Vite
-# Employment Management System
+
+# EMPLOYEE MANAGEMENT SYSTEM
 
 The Employment Management System is a web application designed to manage employee information, including login functionality and task management.
 
-## Features
+# FEATURES
 
-1. **User Authentication**:
-   - Secure login functionality for employees and administrators.
-   
-2. **Task Management**:
-   - Allows employees or managers to create and assign tasks.
+<b><i>1.User Authentication:</i></b>
 
-## Usage
+Secure login functionality for employees and administrators.
 
-- Navigate to the login page and enter credentials.
-- Access task management features once logged in.
+<b><i>2.Task Management:</i></b>
 
-## Future Enhancements
+Allows employees or managers to create and assign tasks.
 
-- Add role-based permissions.
-- Implement task tracking and status updates.
+# USAGE
+
+1.Navigate to the login page and enter credentials.
+
+2.Access task management features once logged in.
+
+# FUTURE ENHANCEMENTS
+
+<li>Add role-based permissions.</li>
+<li>Implement task tracking and status updates.</li>
 
