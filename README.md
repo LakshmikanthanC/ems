@@ -21,6 +21,3 @@ The Employment Management System is a web application designed to manage employe
 - Add role-based permissions.
 - Implement task tracking and status updates.
 
----
-
-This template can be customized based on your project’s specific setup and requirements!
